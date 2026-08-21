@@ -23,9 +23,9 @@ This project is aimed at anyone evaluating companies through an ESG lens where a
 ```
 ├── data/
 │   ├── public_company_esg_ratings.csv   # Raw dataset
-│   └── public_company_esg_ratings_cleaned.csv.csv          # Cleaned dataset (output of notebook 1)
+│   └── public_company_esg_ratings_cleaned.csv.csv  # Cleaned dataset (output of notebook 1)
 ├── jupyter_notebooks/
-│   ├── esg_corporate_analysis.ipynb           # ETL, cleaning, normalisation
+│   ├── esg_corporate_analysis.ipynb   # ETL, cleaning, normalisation
 │   └── esg_corporate_analysis_visualisation.ipynb  # EDA, visualisation, imbalance analysis
 ├── requirements.txt
 └── README.md
